@@ -6,7 +6,9 @@
 
 Authors: Da Chang, Peng Xue, Yu Li, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
 
-[Arxiv 链接](https://arxiv.org/pdf/2511.00051)
+### News 
+- **[2025/11.08]**  Our article has been accepted by **AAAI2026**!
+- **[2025/10.28]** The article has been uploaded to [Arxiv](https://arxiv.org/pdf/2511.00051).
 
 ### SORA
 

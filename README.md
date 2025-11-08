@@ -5,8 +5,9 @@
 # Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT
 
 Authors: Da Chang, Peng Xue, Yu Li, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
-
-[Arxiv link](https://arxiv.org/pdf/2511.00051)
+### News
+- **[2025/11.08]** 我们的文章被**AAAI2026**接受！
+- **[2025/10.28]** 文章已经上传[Arxiv](https://arxiv.org/pdf/2511.00051).
 
 ### SORA
 Our SORA is in `peft/tuners/sora/layer.py`.
